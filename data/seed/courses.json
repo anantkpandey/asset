@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Introduction to JavaScript",
+    "description": "Learn JS basics",
+    "instructor": "ObjectId_of_instructor",
+    "chapters": [
+      {
+        "title": "Chapter 1",
+        "lessons": [
+          { "title": "Variables", "contentType": "text", "content": "Learn about var, let, const", "order": 1 }
+        ]
+      }
+    ]
+  }
+]
